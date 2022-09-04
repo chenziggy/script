@@ -2,7 +2,7 @@
 // @name         BT之家
 // @namespace    ziggy chen
 // @license MIT
-// @version      1.0
+// @version      1.1
 // @description  bt home script
 // @author       Ziggy chen
 // @match        *://*.btbtt11.com/*
