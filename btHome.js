@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         BT之家
 // @namespace    ziggy chen
+// @license MIT
 // @version      1.0
 // @description  try to take over the world!
 // @author       Ziggy chen
