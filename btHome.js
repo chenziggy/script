@@ -3,7 +3,7 @@
 // @namespace    ziggy chen
 // @license MIT
 // @version      1.0
-// @description  try to take over the world!
+// @description  bt home script
 // @author       Ziggy chen
 // @match        *://*.btbtt11.com/*
 // @match        *://*.btbtt12.com/*
