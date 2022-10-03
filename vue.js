@@ -15,6 +15,9 @@
   "use strict";
   // banner 高度  0
   GM_addStyle("html:not(.banner-dismissed) {--vt-banner-height: 0px}");
+  GM_addStyle(
+    ".has-top-banner, .has-top-banner .nav-bar, .has-top-banner .sidebar, .has-top-banner .page {margin-top: 0}"
+  );
 
   // 删除 banner 报错  使用 adguard 过滤banner广告
   // document.onreadystatechange = function () {
