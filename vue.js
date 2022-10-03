@@ -2,7 +2,7 @@
 // @name         vue.js
 // @namespace    ziggy chen
 // @license MIT
-// @version      1.1
+// @version      1.2
 // @description  vue.org script
 // @author       Ziggy chen
 // @match        *://*.vuejs.org/*
