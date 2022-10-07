@@ -3,10 +3,10 @@
 // @namespace    ziggy chen
 // @license MIT
 // @version      1.2
-// @description  vue.org script
+// @description  es6 文档 script
 // @author       Ziggy chen
 // @match        *://es6.ruanyifeng.com/*
-// @icon         https://v2.cn.vuejs.org/images/logo.svg
+// @icon         https://es6.ruanyifeng.com/favicon.ico
 // @run-at       document-start
 // @grant        GM_addStyle
 // ==/UserScript==
