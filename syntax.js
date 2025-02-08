@@ -2,7 +2,7 @@
 // @name         syntax.fm
 // @namespace    ziggy chen
 // @license MIT
-// @version      0.1
+// @version      0.2
 // @description  syntax 控制
 // @author       Ziggy chen
 // @match        *://syntax.fm/*
