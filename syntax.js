@@ -96,7 +96,7 @@
         if (seekBtns?.length) {
             changeSeek = true
             for (const btn of seekBtns) {
-                btn.setAttribute('seekoffset', 1)
+                btn.setAttribute('seekoffset', 2)
                 console.log(btn)
             }
         }
